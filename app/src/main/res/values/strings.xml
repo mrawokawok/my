@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Volume Button</string>
+    <string name="accessibility_service_description">Me</string>
+</resources>
